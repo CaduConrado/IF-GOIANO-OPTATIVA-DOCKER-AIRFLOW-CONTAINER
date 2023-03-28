@@ -1,0 +1,15 @@
+{
+  "name": "projeto_node",
+  "version": "1.0.0",
+  "description": "Tarefa da disciplina de Metodos Computacionais Avançados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Carlos Eduardo Conrado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  }
+}
