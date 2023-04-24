@@ -6,5 +6,5 @@ RUN apk add --update redis
 
 RUN apk add --update gcc
 
-# descreve o que deve ser feito ao iniciar o computador
+# descreve o que deve ser feito ao iniciar o container
 CMD ["redis-server"]
